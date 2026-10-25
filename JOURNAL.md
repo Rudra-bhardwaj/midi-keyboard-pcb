@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvetsm010a4t01rcco30q2ht). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> its a cool midi keyboard  that send signals to your pc but its not a synthesizer
+> its a cool midi keyboard  that send signals to your pc but its not a synthesizer rather its an electronics music controller.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
