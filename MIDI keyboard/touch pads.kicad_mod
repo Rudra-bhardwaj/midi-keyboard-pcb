@@ -1,0 +1,103 @@
+(footprint "touch pads"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -9.7 12.75 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "767d6c60-5d91-426c-b4e4-f5058c388c05")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "touch pads"
+		(at -16.1 47.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4074669f-5c99-4b53-ae31-a9d98aab0a42")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fc4e2ba2-af21-41e7-9607-6961e3ad2ae2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "48096ad3-9349-41f0-9fd3-26ca3505b5c1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(pad "1" smd circle
+		(at 0 -0.5)
+		(size 10 10)
+		(layers "F.Cu" "F.Mask")
+		(uuid "5134d0a7-f5c6-41fe-a210-dfd229b94960")
+	)
+	(pad "2" smd circle
+		(at 0 -13.5)
+		(size 10 10)
+		(layers "F.Cu" "F.Mask")
+		(uuid "b4f8922a-d051-42ac-802e-4d7947e76e60")
+	)
+	(pad "3" smd circle
+		(at 11.25833 -7)
+		(size 10 10)
+		(layers "F.Cu" "F.Mask")
+		(uuid "5c0ec160-60f5-4f50-a267-6b562f798153")
+	)
+	(pad "4" smd circle
+		(at 11.258329 5.9)
+		(size 10 10)
+		(layers "F.Cu" "F.Mask")
+		(uuid "5b07aed6-c484-4bc6-8d80-859b497da0ee")
+	)
+	(pad "5" smd circle
+		(at 0 12.5)
+		(size 10 10)
+		(layers "F.Cu" "F.Mask")
+		(uuid "398df31e-a816-4c43-b7c5-364c570d79b1")
+	)
+	(pad "6" smd circle
+		(at -11.575 5.7)
+		(size 10 10)
+		(layers "F.Cu" "F.Mask")
+		(uuid "d765c279-9174-4087-a9a5-cc5603585e29")
+	)
+	(pad "7" smd circle
+		(at -11.258329 -7.25)
+		(size 10 10)
+		(layers "F.Cu" "F.Mask")
+		(uuid "b02ba4ab-81b3-457d-aa2d-2dd0de6372fe")
+	)
+	(embedded_fonts no)
+)
