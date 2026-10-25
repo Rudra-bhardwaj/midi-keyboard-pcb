@@ -27,3 +27,14 @@ midi keyboard is a musical synthesizer which is an electronic musical instrument
 |               |                                                |          | Total JLCPCB:            | $12.29     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |               |                                                |          | Total:                   | $44.23     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
+## Images of the project
+
+<img width="960" height="519" alt="fine routing" src="https://github.com/user-attachments/assets/46c6214f-c5f7-485c-b3b0-4907cf8d68bd" />
+
+<img width="960" height="518" alt="before routing" src="https://github.com/user-attachments/assets/218702eb-4dbe-4d67-87f6-6a9a4dc3fe29" />
+
+<img width="567" height="397" alt="week 3 duhhh" src="https://github.com/user-attachments/assets/83738957-60c0-4d6e-86e8-964614c801f3" />
+
+<img width="953" height="514" alt="3d render" src="https://github.com/user-attachments/assets/bc2a70ba-e498-48ee-9bad-e534d86e6473" />
+
+
