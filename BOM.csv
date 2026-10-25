@@ -2,4 +2,5 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,JLCONE,$4.00,$4.00,https://cart.jlcpcb.com/shopcart/cart/
 slide potentiometers,2,amazon,$1.04,$2.08,https://www.amazon.in/gp/product/B0BGY5SFHK/ref=ox_sc_act_image_1?smid=A1UUD7CBBVVXIG&psc=1
 rotary encoder,1,robu.in,$0.61,$0.61,https://robu.in/product/hongyan-ec11h-7ce20p1zy15f7-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/
+Waveshare ESP32-S3 Mini Development Board,1,robu.in,$6.31,$6.31,https://robu.in/product/waveshare-esp32-s3-mini-development-board-based-on-esp32-s3fh4r2-dual-core-processor-240mhz-running-frequency-2-4ghz-wi-fi-bluetooth-5/
 Estimated total shipping,1,,,$0.00,
